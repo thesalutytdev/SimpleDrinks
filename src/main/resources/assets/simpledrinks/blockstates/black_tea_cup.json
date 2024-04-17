@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "simpledrinks:models/block/black_tea_cup"
+    }
+  }
+}

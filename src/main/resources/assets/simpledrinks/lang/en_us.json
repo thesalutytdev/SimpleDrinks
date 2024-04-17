@@ -1,0 +1,11 @@
+{
+  "block.simpledrinks.example_block": "Test Block",
+  "block.simpledrinks.green_tea_cup": "Cup Of Green Tea",
+  "block.simpledrinks.black_tea_cup": "Cup Of Black Tea",
+  "items.simpledrinks.green_tea_cup": "Cup Of Green Tea",
+  "items.simpledrinks.black_tea_cup": "Cup Of Black Tea",
+  "block.simpledrinks.cup": "Cup",
+  "items.simpledrinks.cup": "Cup",
+  "text.simpledrinks.description": "Do you have something to drink?",
+  "itemGroup.simpledrinks": "SimpleDrinks"
+}

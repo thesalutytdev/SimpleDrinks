@@ -1,0 +1,11 @@
+{
+  "block.simpledrinks.example_block": "Тестовый блок",
+  "block.simpledrinks.green_tea_cup": "Чашка зелёного чая",
+  "block.simpledrinks.black_tea_cup": "Чашка чёрного чая",
+  "items.simpledrinks.green_tea_cup": "Чашка зелёного чая",
+  "items.simpledrinks.black_tea_cup": "Чашка чёрного чая",
+  "block.simpledrinks.cup": "Чашка",
+  "items.simpledrinks.cup": "Чашка",
+  "text.simpledrinks.description": "Хотите попить?)",
+  "itemGroup.simpledrinks": "SimpleDrinks"
+}

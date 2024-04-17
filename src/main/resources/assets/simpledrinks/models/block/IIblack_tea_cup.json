@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "simpledrinks:textures/block/zircon_block"
+  }
+}
